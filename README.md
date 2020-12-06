@@ -49,5 +49,5 @@
 
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 
-[instagram]: https://instagram.com/_ujjwalvts
+[instagram]: https://instagram.com/_ujjwalvats
 [linkedin]: https://linkedin.com/in/ujjwal-sharma-738a40166
